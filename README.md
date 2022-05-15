@@ -9,7 +9,7 @@ This project presents the process of data preparation, research question formula
 This is a major course output in a statistical modelling and simulation class.
 
 ## Task
-The task is to create a Jupyter notebook that presents the process leading to the generation of insights from a raw dataset:
+The task is to create a Jupyter notebook that presents the process leading up to the generation of insights from a raw dataset:
 - Dataset Representation
 - Data Cleaning
 - Exploratory Data Analysis
