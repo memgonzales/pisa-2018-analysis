@@ -1,5 +1,6 @@
 # 2018 PISA Analysis
 ![badge][badge-jupyter]
+![badge-python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white)
 ![badge][badge-pandas]
 ![badge][badge-numpy]
 ![badge][badge-scipy]
