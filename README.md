@@ -7,7 +7,7 @@
 
 This project presents the process of data preparation, research question formulation, data analysis, and data modelling with the goal of extracting insights from the **2018 PISA Dataset**. The [PISA](https://www.oecd.org/pisa/), which stands for **Programme for International Student Assessment** is a worldwide set of tests conducted by the Organisation for Economic Co-operation and Development (OECD) to gauge the knowledge and competence of 15-year-old students in the key subject areas of reading, mathematics, and science 
 
-This is a major course output in a statistical modelling and simulation class.
+This is a major course output in a statistical modelling and simulation class under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
 
 ## Task
 The task is to create a Jupyter notebook that presents the process leading up to the generation of insights from a raw dataset:
