@@ -40,6 +40,8 @@ Library/Module |	Description |	License
 [`scipy`](https://scipy.org/)	| Provides efficient numerical routines, such as those for numerical integration, interpolation, optimization, linear algebra, and statistics	| BSD 3-Clause "New" or "Revised" License
 [`matplotlib`](https://matplotlib.org/)	| Provides functions for creating static, animated, and interactive visualizations	| Matplotlib License (BSD-Compatible)
 
+*The descriptions are taken from their respective websites.*
+
 [badge-selenium]: https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white
 [badge-github-actions]: https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white
 [badge-heroku]: https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white
