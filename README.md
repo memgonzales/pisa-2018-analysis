@@ -10,7 +10,7 @@ This project presents the process of data preparation, research question formula
 This is a major course output in a statistical modeling and simulation class under Mr. Arren C. Antioquia of the Department of Software Technology, De La Salle University.
 
 ## Task
-The task is to create a Jupyter notebook that presents the process leading up to the generation of insights from a raw dataset:
+The task is to create a [Jupyter notebook](https://github.com/memgonzales/pisa-2018-analysis/blob/master/2018%20PISA%20Analysis.ipynb) that presents the process leading up to the generation of insights from a raw dataset:
 - Dataset Representation
 - Data Cleaning
 - Exploratory Data Analysis
