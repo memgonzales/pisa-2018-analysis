@@ -55,8 +55,6 @@ Library/Module |	Description |	License
   hylene_jules_lee@dlsu.edu.ph <br/>
   lee.hylene@gmail.com
 
-Citations and references are provided in the notebook itself.
-
 [badge-jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white
 [badge-pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white
 [badge-numpy]: https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white
